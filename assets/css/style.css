@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
+
+h1{
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    background-color: #ffd166;
+}
+
+.ney{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav ul, nav li{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul{
+    display: flex;
+}
+
+nav a{
+    text-decoration: none;
+    padding: 15px;
+    color:#6a994e;
+    display: block;
+}
+
+.hist{
+    max-width: 
+}
+
+.carrer{
+    max-width: 
+}
+
+.times{
+    display: flex;
+    flex-direction: column;
+}
+
+.text{
+    display: flex;
+}
+
+.gols{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.assist{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.tit{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.numbers{
+    display: flex;
+    flex-direction: row;
+    flex-direction: flex-start;
+}
+
+#rodape{
+    margin-top: 10px;
+    background-color: #1e1e1e;
+    display: flex;
+    justify-content: center;
+    color: #5c5c5c;
+    font-size: 15px;
+    padding: 30px;
+}
+
+
+
